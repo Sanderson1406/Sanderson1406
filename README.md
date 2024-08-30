@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Sanderson Machado👋
 
-<!--
-**Sanderson1406/Sanderson1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+- 🌱 Atualmente estou aprendendo **Flutter, C++, Java**
+- 👯 Estou procurando colaborar em **projetos de código aberto**
+- 💬 Pergunte-me sobre **Desenvolvimento Web, APIs, MongoDB**
+- 📫 Como me encontrar: **sandersonoficial10@hotmail.com**
+- ⚡ Curiosidade: **Eu adoro resolver quebra-cabeças e desafios de lógica**
 
-Here are some ideas to get you started:
+## 🚀 Minhas Habilidades
+- **Linguagens de Programação**: C++, Go, JavaScript, TypeScript, MySQL
+- **Frameworks e Bibliotecas**: Node.js, Vue, Flutter
+- **Ferramentas e Tecnologias**: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Minhas Estatísticas no GitHub
+
+![Sanderson1406's Stats](https://github-readme-stats.vercel.app/api?username=Sanderson1406&theme=merko&show_icons=true&hide_border=true&count_private=true)
+
+![Sanderson1406's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanderson1406&theme=merko&hide_border=true)
+
+![Sanderson1406's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanderson1406&theme=merko&show_icons=true&hide_border=true&layout=compact)
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/sanderson-machado-278346269
